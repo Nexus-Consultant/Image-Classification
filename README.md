@@ -73,7 +73,7 @@ The SVM model that we’re choose with it’s hyperparameter will be shown below
 •	Model Deployment: The deployment of the SVC model in a real-time image processing system successfully demonstrated its practicality for parking space detection. The system efficiently processed video frames to detect occupancy status and handled dynamic changes in parking lot conditions.
 •	Data Characteristics: The balanced nature of the dataset and the distinct visual differences between empty and occupied parking spaces contributed to the high performance of all models. This highlights the importance of dataset quality and labeling in machine learning applications.
 
-# MODEL DEPLYING 
+# MODEL DEPLOYING 
 ![image](https://github.com/Nexus-Consultant/Image-Classification/assets/172244503/e6a97200-d099-4cda-8aea-7063f3e4e041)
 
 # Reference
